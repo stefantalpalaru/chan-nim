@@ -1,12 +1,12 @@
-##description
+## description
 
 [Nim language][1] bindings for [chan][2] - a pure C implementation of Go channels.
 
-##license
+## license
 
 Apache-2.0
 
-##credits
+## credits
 
 - author: Ștefan Talpalaru <stefantalpalaru@yahoo.com>
 
